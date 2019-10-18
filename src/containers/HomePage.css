@@ -1,7 +1,12 @@
 .container {
-  background-color: aqua;
+  background-color: rgba(12, 12, 12, 0.1);
 }
 
 .text {
   color: brown;
+}
+
+.content {
+  flex: 1;
+  justify-content: center;
 }

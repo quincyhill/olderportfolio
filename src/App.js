@@ -4,7 +4,7 @@ import HomePage from "./containers/HomePage";
 
 function App() {
   return (
-    <div className='container' style={{ fontSize: 44 }}>
+    <div className='container' style={{ fontSize: 34 }}>
       <HomePage />
     </div>
   );
