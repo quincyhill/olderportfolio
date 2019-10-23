@@ -1,4 +1,5 @@
 import React, { Component } from "react";
+import DropDownButton from "../components/DropDownButton";
 import "./HomePage.css";
 
 export default class HomePage extends Component {
@@ -34,6 +35,9 @@ export default class HomePage extends Component {
               >
                 Github <i className='fas fa-chevron-right btn-icon'></i>
               </a>
+            </section>
+            <section>
+              <DropDownButton name='yooo testing' />
             </section>
 
             <p>Quincy Hill </p>
