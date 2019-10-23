@@ -10,7 +10,7 @@ export default class HomePage extends Component {
         </head>
         <body>
           <header className='showcase'>
-            <div className='showcase-top'>
+            <div className='showcase-social-media'>
               <a href='#' className='btn btn-rounded' id='sign-in'>
                 Sign in
               </a>
@@ -22,35 +22,20 @@ export default class HomePage extends Component {
                 <a href='therealquincyhill@gmail.com'>Email</a>
                 {"  "}224-256-0892{"  "}
               </p>
+            </div>
+          </header>
+          <hr />
+
+          <div className='container'>
+            <section>
               <a
                 href='https://www.github.com/quincyhill'
                 className='btn btn-xl'
               >
                 Github <i className='fas fa-chevron-right btn-icon'></i>
               </a>
-            </div>
-          </header>
-          <hr />
+            </section>
 
-          <section className='tabs'>
-            <div className='container'>
-              <div id='tab-1' className='tab-item tab-border'>
-                <i className='fas fa-door-open fa-3x'></i>
-                <p className='hide-sm'>Cancel anytime</p>
-              </div>
-              <div id='tab-2' className='tab-item'>
-                <i className='fas fa-tablet-alt fa-3x'></i>
-                <p className='hide-sm'>Watch anywhere</p>
-              </div>
-              <div id='tab-3' className='tab-item'>
-                <i className='fas fa-tags fa-3x'></i>
-                <p className='hide-sm'>Pick your price</p>
-              </div>
-            </div>
-          </section>
-
-          <p>This is not what you expected now did you?</p>
-          <div className='content'>
             <p>Quincy Hill </p>
             <p>Antioch IL </p>
             <p>
@@ -58,7 +43,70 @@ export default class HomePage extends Component {
               <a href='https://www.github.com/quincyhill'>Github</a>
             </p>
           </div>
-          <script></script>
+          <footer class='footer'>
+            <p>Questions? Call 1-224-256-0892</p>
+            <div className='footer-cols'>
+              <ul>
+                <li>
+                  <a href='#'>FAQ</a>
+                </li>
+                <li>
+                  <a href='#'>Investor Relations</a>
+                </li>
+                <li>
+                  <a href='#'>Ways to Watch</a>
+                </li>
+                <li>
+                  <a href='#'>Corporate Information</a>
+                </li>
+                <li>
+                  <a href='#'>Netflix Originals</a>
+                </li>
+              </ul>
+              <ul>
+                <li>
+                  <a href='#'>Help Center</a>
+                </li>
+                <li>
+                  <a href='#'>Jobs</a>
+                </li>
+                <li>
+                  <a href='#'>Terms Of Use</a>
+                </li>
+                <li>
+                  <a href='#'>Contact Us</a>
+                </li>
+              </ul>
+              <ul>
+                <li>
+                  <a href='#'>Account</a>
+                </li>
+                <li>
+                  <a href='#'>Redeem Gift Cards</a>
+                </li>
+                <li>
+                  <a href='#'>Privacy</a>
+                </li>
+                <li>
+                  <a href='#'>Speed Test</a>
+                </li>
+              </ul>
+              <ul>
+                <li>
+                  <a href='#'>Media Center</a>
+                </li>
+                <li>
+                  <a href='#'>Buy Gift Cards</a>
+                </li>
+                <li>
+                  <a href='#'>Cookie Preferences</a>
+                </li>
+                <li>
+                  <a href=''>Legal Notices</a>
+                </li>
+              </ul>
+            </div>
+          </footer>
         </body>
       </div>
     );
