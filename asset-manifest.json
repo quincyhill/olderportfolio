@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/quincyhill/quincyportfolio/static/css/main.3aa090bb.chunk.css",
+    "main.js": "/quincyhill/quincyportfolio/static/js/main.92de4867.chunk.js",
+    "main.js.map": "/quincyhill/quincyportfolio/static/js/main.92de4867.chunk.js.map",
+    "runtime~main.js": "/quincyhill/quincyportfolio/static/js/runtime~main.1da6e2e0.js",
+    "runtime~main.js.map": "/quincyhill/quincyportfolio/static/js/runtime~main.1da6e2e0.js.map",
+    "static/js/2.d28ed123.chunk.js": "/quincyhill/quincyportfolio/static/js/2.d28ed123.chunk.js",
+    "static/js/2.d28ed123.chunk.js.map": "/quincyhill/quincyportfolio/static/js/2.d28ed123.chunk.js.map",
+    "index.html": "/quincyhill/quincyportfolio/index.html",
+    "precache-manifest.984e6c61720fa2f7cb0997af4ccf5059.js": "/quincyhill/quincyportfolio/precache-manifest.984e6c61720fa2f7cb0997af4ccf5059.js",
+    "service-worker.js": "/quincyhill/quincyportfolio/service-worker.js",
+    "static/css/main.3aa090bb.chunk.css.map": "/quincyhill/quincyportfolio/static/css/main.3aa090bb.chunk.css.map"
+  }
+}
