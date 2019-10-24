@@ -11,11 +11,6 @@ export default class HomePage extends Component {
         </head>
         <body>
           <header className='showcase'>
-            <div className='showcase-social-media'>
-              <a href='#' className='btn btn-rounded' id='sign-in'>
-                Sign in
-              </a>
-            </div>
             <div className='showcase-content'>
               <h1>Quincy Hill</h1>
               <p>Engineering | Computer Science</p>
@@ -42,7 +37,7 @@ export default class HomePage extends Component {
             </section>
           </div>
           <footer class='footer'>
-            <p>Questions? Call 1-224-256-0892</p>
+            <p>&copy; 2019 Quincy Hill</p>
           </footer>
         </body>
       </div>
