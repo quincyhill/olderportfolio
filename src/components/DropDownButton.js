@@ -10,7 +10,7 @@ export default class DropDownButton extends Component {
 
   displayFunction(isClicked) {
     if (isClicked) {
-      return <DropDownContent content={this.state.CONTENT} />;
+      return <DropDownContent content={this.props.content} />;
     }
   }
 
@@ -22,8 +22,7 @@ export default class DropDownButton extends Component {
             this.setState({ isClicked: !this.state.isClicked });
           }}
         >
-          Click:{this.props.name} also my state is:{" "}
-          {String(this.state.isClicked)}
+          {this.props.name}
         </button>
         {this.displayFunction(this.state.isClicked)}
       </div>

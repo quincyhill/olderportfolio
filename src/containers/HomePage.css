@@ -112,9 +112,8 @@ img {
 /* Tabs */
 
 .container {
-  display: grid;
-  grid-template-columns: repeat(3, 1fr);
-  grid-gap: 1rem;
+  flex: 1;
+  padding: 1em;
   align-items: center;
   justify-content: center;
   text-align: center;

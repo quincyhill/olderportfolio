@@ -8,7 +8,7 @@ export default class DropDownContent extends Component {
   render() {
     return (
       <div>
-        <p>My Data: {this.props.content}</p>
+        <p>{this.props.content}</p>
       </div>
     );
   }
