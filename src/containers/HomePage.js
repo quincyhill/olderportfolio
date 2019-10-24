@@ -14,10 +14,16 @@ export default class HomePage extends Component {
             <div className='showcase-content'>
               <h1>Quincy Hill</h1>
               <p>Engineering | Computer Science</p>
-              <p>
-                <a href='therealquincyhill@gmail.com'>Email</a>
-                {"  "}224-256-0892{"  "}
-              </p>
+              <h3>Email : therealquincyhill@gmail.com</h3>
+              <h3>Phone : 224-256-0892</h3>
+              <h3>
+                <a href='https://github.com/quincyhill'>Github</a>
+              </h3>
+              <h3>
+                <a href='https://www.linkedin.com/in/quincy-hill-4bb550176/'>
+                  LinkedIn
+                </a>
+              </h3>
             </div>
           </header>
           <hr />

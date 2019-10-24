@@ -32,6 +32,10 @@ a {
   text-decoration: none;
 }
 
+a:hover {
+  color: var(--primary-color);
+}
+
 p {
   margin: 0.5rem 0;
 }
