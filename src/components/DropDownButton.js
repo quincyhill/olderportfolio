@@ -1,5 +1,6 @@
 import React, { Component } from "react";
 import "./DropDownButton.css";
+import DropDownContent from "../components/DropDownContent";
 
 export default class DropDownButton extends Component {
   constructor(props) {
@@ -9,7 +10,7 @@ export default class DropDownButton extends Component {
 
   displayFunction(isClicked) {
     if (isClicked) {
-      return <p>{this.state.CONTENT}</p>;
+      return <DropDownContent content={this.state.CONTENT} />;
     }
   }
 
