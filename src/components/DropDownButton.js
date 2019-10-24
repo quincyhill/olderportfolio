@@ -18,6 +18,7 @@ export default class DropDownButton extends Component {
     return (
       <div>
         <button
+          className='drop-down-btn'
           onClick={() => {
             this.setState({ isClicked: !this.state.isClicked });
           }}

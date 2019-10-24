@@ -13,7 +13,7 @@ export default class HomePage extends Component {
           <header className='showcase'>
             <div className='showcase-content'>
               <h1>Quincy Hill</h1>
-              <p>Engineering | Computer Science</p>
+              <p>Engineer | Developer</p>
               <h3>Email : therealquincyhill@gmail.com</h3>
               <h3>Phone : 224-256-0892</h3>
               <h3>
@@ -30,16 +30,19 @@ export default class HomePage extends Component {
 
           <div className='container'>
             <section>
-              <DropDownButton name='Objective' content={data.first} />
+              <DropDownButton name='Goals' content={data.first} />
             </section>
             <section>
               <DropDownButton name='Education' content={data.second} />
             </section>
             <section>
-              <DropDownButton name='Personal Projects' content={data.third} />
+              <DropDownButton
+                name='Projects | Experience'
+                content={data.third}
+              />
             </section>
             <section>
-              <DropDownButton name='Skills' content={data.fourth} />
+              <DropDownButton name='Skill Set' content={data.fourth} />
             </section>
           </div>
           <footer class='footer'>
