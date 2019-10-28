@@ -45,7 +45,7 @@ export default class HomePage extends Component {
               <DropDownButton name='Skill Set' content={data.fourth} />
             </section>
           </div>
-          <footer class='footer'>
+          <footer className='footer'>
             <p>&copy; 2019 Quincy Hill</p>
           </footer>
         </body>
