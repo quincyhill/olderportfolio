@@ -10,7 +10,7 @@ export default class HomePage extends Component {
           <title>This is MY title</title>
         </head>
         <body>
-          <header className='showcase'>
+          <header>
             <div className='showcase-content'>
               <h1>Quincy Hill</h1>
               <p>Engineer | Developer</p>
@@ -26,8 +26,6 @@ export default class HomePage extends Component {
               </h3>
             </div>
           </header>
-          <hr />
-
           <div className='container'>
             <section>
               <DropDownButton name='Goals' content={data.first} />
