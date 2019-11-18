@@ -2,12 +2,15 @@ import React, { Component } from "react";
 import DropDownButton from "../components/DropDownButton";
 import "./HomePage.css";
 import { data } from "../components/MyData";
+import { Helmet } from "react-helmet";
 export default class HomePage extends Component {
   render() {
     return (
       <div>
         <head>
-          <title>This is MY title</title>
+          <Helmet>
+            <title>Quincy's Portfolio</title>
+          </Helmet>
         </head>
         <body>
           <header>
