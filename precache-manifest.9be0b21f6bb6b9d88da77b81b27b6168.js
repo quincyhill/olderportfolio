@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "fb6a31509561e57ceb7542b8c8a5ed2b",
+    "revision": "d4e372f10a60db270df5a5aedbc14166",
     "url": "/quincyportfolio/index.html"
   },
   {
-    "revision": "a2ffc01a1e6201f00f8b",
-    "url": "/quincyportfolio/static/css/main.bb90106c.chunk.css"
+    "revision": "8fb5a2a5a4aec90b916c",
+    "url": "/quincyportfolio/static/css/main.e935d301.chunk.css"
   },
   {
-    "revision": "17be8753a6d96678d59a",
-    "url": "/quincyportfolio/static/js/2.d28ed123.chunk.js"
+    "revision": "3f5e087747c261464c58",
+    "url": "/quincyportfolio/static/js/2.a01085a1.chunk.js"
   },
   {
-    "revision": "a2ffc01a1e6201f00f8b",
-    "url": "/quincyportfolio/static/js/main.102dd08b.chunk.js"
+    "revision": "8fb5a2a5a4aec90b916c",
+    "url": "/quincyportfolio/static/js/main.9f01554c.chunk.js"
   },
   {
     "revision": "703413a9f255806a80c0",

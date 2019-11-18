@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/quincyportfolio/static/css/main.bb90106c.chunk.css",
-    "main.js": "/quincyportfolio/static/js/main.102dd08b.chunk.js",
-    "main.js.map": "/quincyportfolio/static/js/main.102dd08b.chunk.js.map",
+    "main.css": "/quincyportfolio/static/css/main.e935d301.chunk.css",
+    "main.js": "/quincyportfolio/static/js/main.9f01554c.chunk.js",
+    "main.js.map": "/quincyportfolio/static/js/main.9f01554c.chunk.js.map",
     "runtime~main.js": "/quincyportfolio/static/js/runtime~main.9379f948.js",
     "runtime~main.js.map": "/quincyportfolio/static/js/runtime~main.9379f948.js.map",
-    "static/js/2.d28ed123.chunk.js": "/quincyportfolio/static/js/2.d28ed123.chunk.js",
-    "static/js/2.d28ed123.chunk.js.map": "/quincyportfolio/static/js/2.d28ed123.chunk.js.map",
+    "static/js/2.a01085a1.chunk.js": "/quincyportfolio/static/js/2.a01085a1.chunk.js",
+    "static/js/2.a01085a1.chunk.js.map": "/quincyportfolio/static/js/2.a01085a1.chunk.js.map",
     "index.html": "/quincyportfolio/index.html",
-    "precache-manifest.cc5ff5ee6b311a67f1f978a5a4f0f916.js": "/quincyportfolio/precache-manifest.cc5ff5ee6b311a67f1f978a5a4f0f916.js",
+    "precache-manifest.9be0b21f6bb6b9d88da77b81b27b6168.js": "/quincyportfolio/precache-manifest.9be0b21f6bb6b9d88da77b81b27b6168.js",
     "service-worker.js": "/quincyportfolio/service-worker.js",
-    "static/css/main.bb90106c.chunk.css.map": "/quincyportfolio/static/css/main.bb90106c.chunk.css.map",
+    "static/css/main.e935d301.chunk.css.map": "/quincyportfolio/static/css/main.e935d301.chunk.css.map",
     "static/media/HomePage.css": "/quincyportfolio/static/media/nustar.20c030da.jpg"
   }
 }
